@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: Helvetica, sans-serif;
     background: linear-gradient(135deg, #FFDEE9, #B5FFFC);
     display: flex;
     justify-content: center;
@@ -41,3 +41,4 @@ h1 {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-10px); }
 }
+
